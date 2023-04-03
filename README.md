@@ -3,7 +3,7 @@ A Fullscreen Text Reader Overlay for Nintendo Switch
 
 A fork of https://github.com/tungns0695/TextReaderOverlay-NX
 
-# Version 1.2.1 by Storm / No orginal Source! Moded by me...
+# Version 1.2.1 by Storm / Moded by me...
 
 - Fix for FW1600
 - Fix for Dock Mode
