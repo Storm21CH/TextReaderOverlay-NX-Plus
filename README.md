@@ -3,6 +3,13 @@ A Fullscreen Text Reader Overlay for Nintendo Switch
 
 A fork of https://github.com/tungns0695/TextReaderOverlay-NX
 
+# Version 1.2.1 by Storm / No orginal Source! Moded by me...
+
+- Fix for FW1600
+- Fix for Dock Mode
+- Fixed Help Page
+
+
 TextReaderOverlay is an overlay for the Nintendo Switch that lets you view text files on top of any foreground application. It is launched with [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) and [Tesla-Menu](https://github.com/WerWolv/Tesla-Menu). [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) custom firmware is required to run this application.
 
 ## Installation
